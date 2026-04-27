@@ -6,7 +6,7 @@ layout: default
 # COMP110 EX09
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="100"/>
 
 ## By: Madison Mitchell and Andrew Sherrod
 
@@ -20,7 +20,7 @@ How does students’ major relate to the amount of time they spend studying or w
 
 ## Chart 2: Preparation Time by Major
 
-<img src="static/imgs/img2-1.png" alt="Perp Time by Major "  width="500"/>
+<img src="static/imgs/img2-1.png" alt="Prep Time by Major "  width="500"/>
 
 ## Chart 3: Overall Preparation Time
 
