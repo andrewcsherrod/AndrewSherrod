@@ -18,21 +18,21 @@ How does students’ major relate to the amount of time they spend studying or w
 
 <p align="center">
   <img src="static/imgs/img1-1.png" width="500"
-  style="border: 3px solid #5a8fd9; border-radius: 10px;">
+  style="border: 5px solid #5a8fd9; border-radius: 10px;">
 </p>
 
 ## Chart 2: Preparation Time by Major
 
 <p align="center">
   <img src="static/imgs/img2-1.png" width="500"
-  style="border: 3px solid #5a8fd9; border-radius: 10px;">
+  style="border: 5px solid #5a8fd9; border-radius: 10px;">
 </p>
 
 ## Chart 3: Overall Preparation Time
 
 <p align="center">
   <img src="static/imgs/img3-1.png" width="500"
-  style="border: 3px solid #5a8fd9; border-radius: 10px;">
+  style="border: 5px solid #5a8fd9; border-radius: 10px;">
 </p>
 
 ## Conclusion
